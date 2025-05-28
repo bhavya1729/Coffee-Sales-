@@ -1,4 +1,4 @@
-#☕ Coffee Sales Dashboard (Excel)
+# ☕ Coffee Sales Dashboard (Excel)
 
 This project showcases an interactive Coffee Sales Dashboard built entirely in Microsoft Excel, leveraging advanced formulas and formatting techniques to present sales insights effectively.
 
