@@ -36,7 +36,17 @@ Sales by Country:
 
 🇬🇧 United Kingdom: $2,798.51
 
-Weekday-wise Average Sales: | Day       | Avg Sales ($) | |-----------|---------------| | Monday    | 46.34         | | Tuesday   | 46.14         | | Wednesday | 47.76         | | Thursday  | 41.64         | | Friday    | 42.36         | | Saturday  | 46.44         | | Sunday    | 45.29         |
+Weekday-wise Average Sales:
+
+| Day       | Avg Sales ($) | 
+|-----------|---------------| 
+| Monday    | 46.34         | 
+| Tuesday   | 46.14         | 
+| Wednesday | 47.76         | 
+| Thursday  | 41.64         | 
+| Friday    | 42.36         | 
+| Saturday  | 46.44         | 
+| Sunday    | 45.29         |
 
 
 🧠 Excel Techniques Used
